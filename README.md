@@ -9,7 +9,17 @@
   <li>Detailed information about each car, including photos and specifications</li>
   <li>User-friendly design for seamless navigation on different devices</li>
 </ul>
-[!scrresnshot1](https://github.com/JAY1820/Icon_and_gif/blob/main/CarYatra%20ss1.png)
+
+## Screenshots 1 - Home Page
+
+![ Board View](https://github.com/JAY1820/Icon_and_gif/blob/main/CarYatra%20ss1.png)
+
+## Screenshots 2 - Our Services
+![Car Details](https://github.com/JAY1820/Icon_and_gif/blob/main/city%20go%20image3.png)
+
+## Screenshots 3 -  Details
+ ![Car Details](![Car Details](https://github.com/JAY1820/Icon_and_gif/blob/main/city%20go%20image3.png))
+
 <h2>Technologies Used</h2>
 <ul>
   <li>HTML5</li>
