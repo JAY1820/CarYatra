@@ -9,7 +9,7 @@
   <li>Detailed information about each car, including photos and specifications</li>
   <li>User-friendly design for seamless navigation on different devices</li>
 </ul>
-
+[!scrresnshot1](https://github.com/JAY1820/Icon_and_gif/blob/main/CarYatra%20ss1.png)
 <h2>Technologies Used</h2>
 <ul>
   <li>HTML5</li>
